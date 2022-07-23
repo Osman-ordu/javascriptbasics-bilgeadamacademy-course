@@ -1,3 +1,3 @@
-# javascriptbasics-bilgeadamacademy-course
+# Javascript basics
 
-### BilgeAdam Akademi javascript lessons
+### Bilge Adam Akademi Javascript Lessons
